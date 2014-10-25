@@ -52,6 +52,6 @@ summary(my.fit)
 
 - First, You have to select predictors that Lag1 ~ Lag5
 - Secont, Select method you want to test. We support Logistic Regression , LDA, QDA
-- Finaly Press the Submit button
+- Finally Press the Submit button
 
 
